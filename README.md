@@ -23,7 +23,7 @@
       "args": [
         "-Dspring.ai.mcp.server.transport=STDIO",
         "-jar",
-        "jar 파일의 경로로"
+        "jar 파일의 경로로 설정"
       ]
     }
   }
